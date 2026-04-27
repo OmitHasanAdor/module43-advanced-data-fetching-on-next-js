@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Classic Leather Wallet",
+      "category": "Accessories",
+      "price": 35.00,
+      "stock": 28,
+      "image": "https://via.placeholder.com/300x200?text=Leather+Wallet",
+      "thumbnail": "https://picsum.photos/id/101/300/200",
+      "description": "Handcrafted genuine leather wallet with RFID protection."
+    },
+    {
+      "id": "2",
+      "name": "Mountain Trek Backpack",
+      "category": "Travel",
+      "price": 75.99,
+      "stock": 12,
+      "image": "https://via.placeholder.com/300x200?text=Trek+Backpack",
+      "thumbnail": "https://picsum.photos/id/160/300/200",
+      "description": "Durable and water-resistant backpack for long hiking trips."
+    },
+    {
+      "id": "3",
+      "name": "Minimalist Wall Clock",
+      "category": "Home Decor",
+      "price": 45.00,
+      "stock": 40,
+      "image": "https://via.placeholder.com/300x200?text=Wall+Clock",
+      "thumbnail": "https://picsum.photos/id/175/300/200",
+      "description": "Silent non-ticking wall clock with a modern wooden finish."
+    },
+    {
+      "id": "4",
+      "name": "Wireless Charging Pad",
+      "category": "Electronics",
+      "price": 29.50,
+      "stock": 85,
+      "image": "https://via.placeholder.com/300x200?text=Charging+Pad",
+      "thumbnail": "https://picsum.photos/id/201/300/200",
+      "description": "Fast charging wireless pad compatible with all Qi-enabled devices."
+    },
+    {
+      "id": "5",
+      "name": "Ceramic Coffee Mug",
+      "category": "Kitchenware",
+      "price": 12.00,
+      "stock": 150,
+      "image": "https://via.placeholder.com/300x200?text=Coffee+Mug",
+      "thumbnail": "https://picsum.photos/id/425/300/200",
+      "description": "Matte finish ceramic mug, perfect for your morning coffee."
+    }
+  ]
+}
