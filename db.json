@@ -2,9 +2,9 @@
   "products": [
     {
       "id": "1",
-      "name": "Classic Leather Wallet",
+      "name": " Wallet",
       "category": "Accessories",
-      "price": 35.00,
+      "price": 35.99,
       "stock": 28,
       "image": "https://via.placeholder.com/300x200?text=Leather+Wallet",
       "thumbnail": "https://picsum.photos/id/101/300/200",
@@ -12,7 +12,7 @@
     },
     {
       "id": "2",
-      "name": "Mountain Trek Backpack",
+      "name": " Trek Backpack",
       "category": "Travel",
       "price": 75.99,
       "stock": 12,
@@ -22,7 +22,7 @@
     },
     {
       "id": "3",
-      "name": "Minimalist Wall Clock",
+      "name": " Wall Clock",
       "category": "Home Decor",
       "price": 45.00,
       "stock": 40,
